@@ -33,15 +33,15 @@ From shipping full-stack products, into real-time 3D & visualization *(Three.js 
 
 <samp>─────────────────  **AT A GLANCE**  ─────────────────</samp>
 
-🎓 &nbsp;**M.Tech in AI** @ BITS Pilani &nbsp;&nbsp; <kbd>ML</kbd> <kbd>Deep&nbsp;Learning</kbd> <kbd>LLMs</kbd> <kbd>Computer&nbsp;Vision</kbd>
+🎓 &nbsp;**M.Tech in AI** @ BITS Pilani &nbsp; <kbd>ML</kbd> <kbd>Deep&nbsp;Learning</kbd> <kbd>LLMs</kbd> <kbd>Computer&nbsp;Vision</kbd>
 
-🧠 &nbsp;Building with **RAG, agents & LLMs** &nbsp;&nbsp; <kbd>LangGraph</kbd> <kbd>LangChain</kbd> <kbd>LlamaIndex</kbd>
+🧠 &nbsp;Building with **RAG, agents & LLMs** &nbsp; <kbd>LangGraph</kbd> <kbd>LangChain</kbd> <kbd>LlamaIndex</kbd>
 
-🖥️ &nbsp;**Homelab engineer** — self-hosted AI &nbsp;&nbsp; <kbd>Proxmox</kbd> <kbd>Ollama</kbd> <kbd>Docker</kbd> <kbd>K8s</kbd>
+🖥️ &nbsp;**Homelab engineer** — self-hosted AI &nbsp; <kbd>Proxmox</kbd> <kbd>Ollama</kbd> <kbd>Docker</kbd> <kbd>K8s</kbd>
 
-🎙️ &nbsp;Architecting **Voice-AI-as-a-Service** &nbsp;&nbsp; <kbd>Real-time&nbsp;voice&nbsp;infra</kbd>
+🎙️ &nbsp;Architecting **Voice-AI-as-a-Service** &nbsp; <kbd>Real-time&nbsp;voice&nbsp;infra</kbd>
 
-🌏 &nbsp;Co-founding a **Tamil-language tech community** &nbsp;&nbsp; <kbd>Education&nbsp;content</kbd>
+🌏 &nbsp;Co-founding a **Tamil-language tech community** &nbsp; <kbd>Education&nbsp;content</kbd>
 
 🚀 &nbsp;**Long-term** — AI products that solve real-world problems at scale
 
@@ -83,18 +83,16 @@ From shipping full-stack products, into real-time 3D & visualization *(Three.js 
 
 ## 🎯 2026 Mission Board
 
-<div align="center">
-
-| 🚀 | Mission | Status |
-|----|---------|--------|
-| 🎙️ | Voice-AI-as-a-Service platform | `█████░░░░░` Architecting |
-| 🧠 | RAG + Agentic AI mastery (LangGraph / LlamaIndex) | `███████░░░` Deep-diving |
-| 🖥️ | Homelab AI infrastructure (Proxmox · Ollama · K8s) | `██████░░░░` Expanding |
-| 📚 | Chip Huyen's *AI Engineering* + HF Agents Course | `██████░░░░` In progress |
-| 🏋️ | Gym analytics app (Flutter + Drift) | `█████░░░░░` Building |
-| 🌏 | Tamil tech education content | `████░░░░░░` Launching |
-
-</div>
+```text
+  MISSION                                      PROGRESS               STATUS
+  ──────────────────────────────────────────────────────────────────────────────
+  Voice-AI-as-a-Service platform               ██████████░░░░░░░░░░   50%   Architecting
+  RAG + Agentic AI mastery                     ██████████████░░░░░░   70%   Deep-diving
+  Homelab AI infrastructure                    ████████████░░░░░░░░   60%   Expanding
+  Chip Huyen's AI Engineering + HF Agents      ████████████░░░░░░░░   60%   In progress
+  Gym analytics app (Flutter + Drift)          ██████████░░░░░░░░░░   50%   Building
+  Tamil tech education content                 ████████░░░░░░░░░░░░   40%   Launching
+```
 
 <br>
 
@@ -102,10 +100,10 @@ From shipping full-stack products, into real-time 3D & visualization *(Three.js 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajkumarPalanichamy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=true" alt="stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=RajkumarPalanichamy&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="streak"/>
+<a href="https://github.com/RajkumarPalanichamy"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajkumarPalanichamy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats"/></a>
+<a href="https://github.com/RajkumarPalanichamy"><img width="49%" src="https://streak-stats.demolab.com?user=RajkumarPalanichamy&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&cache_seconds=86400" alt="GitHub streak"/></a>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarPalanichamy&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&layout=compact&langs_count=8" alt="languages"/>
+<a href="https://github.com/RajkumarPalanichamy"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarPalanichamy&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&layout=compact&langs_count=8&cache_seconds=86400" alt="Top languages"/></a>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RajkumarPalanichamy&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
 
