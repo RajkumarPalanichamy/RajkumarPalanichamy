@@ -1,6 +1,3 @@
-````md
-<div align="center">
-
 # Hi there 👋 I'm Rajkumar Palanichamy
 
 ### 🚀 Full Stack • AI Engineer • 3D Developer • AI Infrastructure Enthusiast
@@ -194,5 +191,4 @@ Blockchain
 
 ![](https://komarev.com/ghpvc/?username=RajkumarPalanichamy&style=for-the-badge)
 
-</div>
-````
+
