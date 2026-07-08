@@ -33,9 +33,9 @@ From shipping full-stack products, into real-time 3D & visualization *(Three.js 
 
 <samp>─────────────────  **AT A GLANCE**  ─────────────────</samp>
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="60%">
 
 🎓 &nbsp;**M.Tech in AI** @ BITS Pilani &nbsp; <kbd>ML</kbd> <kbd>Deep&nbsp;Learning</kbd> <kbd>LLMs</kbd> <kbd>Computer&nbsp;Vision</kbd>
 
@@ -50,7 +50,7 @@ From shipping full-stack products, into real-time 3D & visualization *(Three.js 
 🚀 &nbsp;**Long-term** — AI products that solve real-world problems at scale
 
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="40%">
 
 ```yaml
 ~/rajkumar $ whoami
