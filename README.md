@@ -16,65 +16,34 @@
 
 ## ⚡ Who Am I
 
-<table border="0">
-<tr>
-<td width="60%" valign="top">
-
-<br>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 **Software engineer, AI enthusiast & entrepreneur** — based in **Tamil Nadu, India** 🇮🇳
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&weight=500&pause=1200&color=00D9FF&width=470&lines=I+don't+just+consume+AI+APIs.;I+engineer+the+systems+underneath+them.;Training+models.+Serving+LLMs.+From+the+metal+up." alt="tagline"/>
+> *I don't just consume AI APIs — I engineer the systems underneath them.*
+> *Training models · Serving LLMs · From the metal up.*
 
-**My path down the stack:**
+**My path down the stack**
 
-<kbd>&nbsp;Full&nbsp;Stack&nbsp;</kbd> &nbsp;➜&nbsp; <kbd>&nbsp;Real-time&nbsp;3D&nbsp;</kbd> &nbsp;➜&nbsp; <kbd>&nbsp;AI&nbsp;Engineering&nbsp;&&nbsp;Infra&nbsp;</kbd>
+<kbd>&nbsp;Full&nbsp;Stack&nbsp;</kbd> ➜ <kbd>&nbsp;Real-time&nbsp;3D&nbsp;</kbd> ➜ <kbd>&nbsp;AI&nbsp;Engineering&nbsp;&&nbsp;Infra&nbsp;</kbd>
 
 From shipping full-stack products, into real-time 3D & visualization *(Three.js · R3F · Unreal)*, and finally into the internals of AI — **training models, serving LLMs, running local inference, and building AI-native software from the metal up.**
 
-</td>
-<td width="40%" valign="top" align="center">
+<br clear="right"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<samp>─────────────────  **AT A GLANCE**  ─────────────────</samp>
 
-</td>
-</tr>
-</table>
+🎓 &nbsp;**M.Tech in AI** @ BITS Pilani &nbsp;&nbsp; <kbd>ML</kbd> <kbd>Deep&nbsp;Learning</kbd> <kbd>LLMs</kbd> <kbd>Computer&nbsp;Vision</kbd>
 
-<!-- ── AT A GLANCE ── -->
+🧠 &nbsp;Building with **RAG, agents & LLMs** &nbsp;&nbsp; <kbd>LangGraph</kbd> <kbd>LangChain</kbd> <kbd>LlamaIndex</kbd>
 
-<table border="0" width="100%">
-<tr>
-<td width="6%" align="center">🎓</td>
-<td width="42%"><b>M.Tech in AI</b> @ BITS Pilani</td>
-<td width="52%"><kbd>ML</kbd> <kbd>Deep&nbsp;Learning</kbd> <kbd>LLMs</kbd> <kbd>Computer&nbsp;Vision</kbd></td>
-</tr>
-<tr>
-<td align="center">🧠</td>
-<td>Building with <b>RAG, agents & LLMs</b></td>
-<td><kbd>LangGraph</kbd> <kbd>LangChain</kbd> <kbd>LlamaIndex</kbd></td>
-</tr>
-<tr>
-<td align="center">🖥️</td>
-<td><b>Homelab engineer</b> — self-hosted AI</td>
-<td><kbd>Proxmox</kbd> <kbd>Ollama</kbd> <kbd>Docker</kbd> <kbd>K8s</kbd></td>
-</tr>
-<tr>
-<td align="center">🎙️</td>
-<td>Architecting <b>Voice-AI-as-a-Service</b></td>
-<td><kbd>Real-time&nbsp;voice&nbsp;infra</kbd></td>
-</tr>
-<tr>
-<td align="center">🌏</td>
-<td>Co-founding a <b>Tamil-language tech community</b></td>
-<td><kbd>Education&nbsp;content</kbd></td>
-</tr>
-<tr>
-<td align="center">🚀</td>
-<td><b>Long-term</b> — AI products at scale</td>
-<td><kbd>Solving&nbsp;real&nbsp;problems</kbd></td>
-</tr>
-</table>
+🖥️ &nbsp;**Homelab engineer** — self-hosted AI &nbsp;&nbsp; <kbd>Proxmox</kbd> <kbd>Ollama</kbd> <kbd>Docker</kbd> <kbd>K8s</kbd>
+
+🎙️ &nbsp;Architecting **Voice-AI-as-a-Service** &nbsp;&nbsp; <kbd>Real-time&nbsp;voice&nbsp;infra</kbd>
+
+🌏 &nbsp;Co-founding a **Tamil-language tech community** &nbsp;&nbsp; <kbd>Education&nbsp;content</kbd>
+
+🚀 &nbsp;**Long-term** — AI products that solve real-world problems at scale
 
 <br>
 
