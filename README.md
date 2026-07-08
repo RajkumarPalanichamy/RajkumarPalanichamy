@@ -35,7 +35,7 @@ From shipping full-stack products, into real-time 3D & visualization *(Three.js 
 
 <table>
 <tr>
-<td valign="top" width="62%">
+<td valign="top" width="100%">
 
 🎓 &nbsp;**M.Tech in AI** @ BITS Pilani &nbsp; <kbd>ML</kbd> <kbd>Deep&nbsp;Learning</kbd> <kbd>LLMs</kbd> <kbd>Computer&nbsp;Vision</kbd>
 
