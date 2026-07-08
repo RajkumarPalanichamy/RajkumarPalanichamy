@@ -33,6 +33,10 @@ From shipping full-stack products, into real-time 3D & visualization *(Three.js 
 
 <samp>─────────────────  **AT A GLANCE**  ─────────────────</samp>
 
+<table>
+<tr>
+<td valign="top" width="62%">
+
 🎓 &nbsp;**M.Tech in AI** @ BITS Pilani &nbsp; <kbd>ML</kbd> <kbd>Deep&nbsp;Learning</kbd> <kbd>LLMs</kbd> <kbd>Computer&nbsp;Vision</kbd>
 
 🧠 &nbsp;Building with **RAG, agents & LLMs** &nbsp; <kbd>LangGraph</kbd> <kbd>LangChain</kbd> <kbd>LlamaIndex</kbd>
@@ -44,6 +48,26 @@ From shipping full-stack products, into real-time 3D & visualization *(Three.js 
 🌏 &nbsp;Co-founding a **Tamil-language tech community** &nbsp; <kbd>Education&nbsp;content</kbd>
 
 🚀 &nbsp;**Long-term** — AI products that solve real-world problems at scale
+
+</td>
+<td valign="top" width="38%">
+
+```yaml
+~/rajkumar $ whoami
+─────────────────────
+role:    AI Engineer
+base:    Tamil Nadu, IN 🇮🇳
+focus:   > Voice AI infra
+         > RAG & agents
+         > Self-hosted LLMs
+stack:   metal → models
+motto:   build from scratch
+status:  open to collab ⚡
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -100,10 +124,7 @@ From shipping full-stack products, into real-time 3D & visualization *(Three.js 
 
 <div align="center">
 
-<a href="https://github.com/RajkumarPalanichamy"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajkumarPalanichamy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats"/></a>
 <a href="https://github.com/RajkumarPalanichamy"><img width="49%" src="https://streak-stats.demolab.com?user=RajkumarPalanichamy&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&cache_seconds=86400" alt="GitHub streak"/></a>
-
-<a href="https://github.com/RajkumarPalanichamy"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarPalanichamy&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&layout=compact&langs_count=8&cache_seconds=86400" alt="Top languages"/></a>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RajkumarPalanichamy&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
 
