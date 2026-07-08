@@ -1,9 +1,9 @@
 <!-- ═══════════════ ANIMATED GRADIENT BANNER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rajkumar%20Palanichamy&fontSize=52&fontColor=00D9FF&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%86%92%20AI%20Engineer&descSize=20&descAlignY=75&fontAlignY=42" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rajkumar%20Palanichamy&fontSize=52&fontColor=00D9FF&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Builder&descSize=20&descAlignY=75&fontAlignY=42" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=640&lines=Building+Voice+AI+%26+RAG+Systems+%F0%9F%8E%99%EF%B8%8F;.NET+%7C+Azure+%7C+React+by+day+%E2%98%80%EF%B8%8F;LangGraph+%7C+LLMs+%7C+Agents+by+night+%F0%9F%8C%99;M.Tech+AI%2FML+%40+BITS+Pilani+%F0%9F%8E%93;Tamil+Tech+Community+Builder+%F0%9F%8C%8F)](https://github.com/RajkumarPalanichamy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=680&lines=Engineering+AI+systems%2C+not+just+using+them+%F0%9F%A7%A0;Full+Stack+%E2%86%92+Real-time+3D+%E2%86%92+AI+Engineering;Self-hosting+LLMs+in+my+homelab+%F0%9F%96%A5%EF%B8%8F;RAG+%7C+Agents+%7C+AI+Infrastructure;M.Tech+AI+%40+BITS+Pilani+%F0%9F%8E%93;Build.+Learn.+Experiment.+Improve.+Repeat.)](https://github.com/RajkumarPalanichamy)
 
 <a href="https://www.linkedin.com/in/rajkumarpalanichamy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://linktr.ee/rajkumarpalanichamy"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/></a>&nbsp;
@@ -18,13 +18,16 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
 
-- 💼 **Enterprise dev** — large-scale maritime systems: `.NET Core` `SQL Server` `Azure Synapse` `React micro-frontends`
-- 🎓 **M.Tech AI/ML @ BITS Pilani** — PyTorch, Transformers, XGBoost, SHAP, time-series forecasting
+Software engineer, AI enthusiast & entrepreneur from **Tamil Nadu, India** 🇮🇳
+
+My path: **Full Stack Developer** → **Real-time 3D & visualization** (Three.js, R3F, Unreal) → **AI Engineering & Infrastructure**. I don't just consume AI APIs — I want to understand how these systems work internally: training models, deploying LLMs, running local inference, and building AI-native software from the metal up.
+
+- 🎓 **M.Tech in AI @ BITS Pilani** — ML, Deep Learning, LLMs, Computer Vision
+- 🧠 Building with **RAG, agents & LLMs** — LangGraph, LangChain, LlamaIndex
+- 🖥️ **Homelab engineer** — self-hosted AI on Proxmox, Ollama, Docker, K8s
 - 🎙️ Architecting a **Voice-AI-as-a-Service** platform
-- 🧠 Deep in **RAG pipelines & agent frameworks** — LangGraph, LangChain, LlamaIndex
-- 📱 Building a **gym analytics app** — Flutter, Drift, Riverpod, 1RM & periodization tracking
 - 🌏 Co-founding a **Tamil-language tech community**
-- ⚡ I learn everything **ground-up** — no black boxes allowed
+- 🚀 Long-term: build AI products that solve real-world problems at scale
 
 <br clear="right"/>
 
@@ -34,24 +37,31 @@
 
 <div align="center">
 
-**Languages & Core**
+**🧠 AI / ML Engineering**
 
-<img src="https://skillicons.dev/icons?i=cs,python,js,ts,dart,html,css&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ai-ml"/>
 
-**AI / ML Engineering**
+<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black"/>&nbsp;<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=for-the-badge&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/RAG_Pipelines-00D9FF?style=for-the-badge&logoColor=black"/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ai-ml"/>&nbsp;
-<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black" height="48"/>&nbsp;
-<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white" height="48"/>&nbsp;
-<img src="https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=for-the-badge&logoColor=white" height="48"/>
+**🖥️ AI Infrastructure & Homelab**
 
-**Backend & Frontend**
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,bash&theme=dark" alt="infra"/>
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi,flask,react,nextjs,flutter,threejs,tailwind,materialui&theme=dark" alt="frameworks"/>
+<img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Self--Hosted_LLMs-2c5364?style=for-the-badge&logoColor=white"/>
 
-**Cloud, Data & Tools**
+**⚙️ Full Stack**
 
-<img src="https://skillicons.dev/icons?i=azure,aws,firebase,mongodb,mysql,sqlite,docker,git,linux,postman,figma,blender,unreal&theme=dark" alt="cloud-tools"/>
+<img src="https://skillicons.dev/icons?i=ts,js,cs,react,nextjs,nodejs,nestjs,express,dotnet,fastapi,prisma,postgres,mongodb,mysql,firebase&theme=dark" alt="fullstack"/>
+
+**🎮 3D & Real-Time Graphics**
+
+<img src="https://skillicons.dev/icons?i=threejs,unreal,blender&theme=dark" alt="3d"/>&nbsp;
+<img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white"/>
+
+**☁️ Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,githubactions,git,vscode,postman,figma&theme=dark" alt="cloud"/>&nbsp;
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
 
 </div>
 
@@ -65,8 +75,8 @@
 |----|---------|--------|
 | 🎙️ | Voice-AI-as-a-Service platform | `█████░░░░░` Architecting |
 | 🧠 | RAG + Agentic AI mastery (LangGraph / LlamaIndex) | `███████░░░` Deep-diving |
+| 🖥️ | Homelab AI infrastructure (Proxmox · Ollama · K8s) | `██████░░░░` Expanding |
 | 📚 | Chip Huyen's *AI Engineering* + HF Agents Course | `██████░░░░` In progress |
-| 🔬 | Local LLM inference experiments | `████████░░` Active |
 | 🏋️ | Gym analytics app (Flutter + Drift) | `█████░░░░░` Building |
 | 🌏 | Tamil tech education content | `████░░░░░░` Launching |
 
@@ -108,7 +118,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=RajkumarPalanichamy&color=00D9FF&style=flat-square&label=Visitors" alt="views"/>
 
-**Let's build the future of AI together** 🤝
+### *"Build. Learn. Experiment. Improve. Repeat."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
