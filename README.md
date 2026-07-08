@@ -50,7 +50,7 @@ From shipping full-stack products, into real-time 3D & visualization *(Three.js 
 🚀 &nbsp;**Long-term** — AI products that solve real-world problems at scale
 
 </td>
-<td valign="top" width="38%">
+<td valign="top" width="100%">
 
 ```yaml
 ~/rajkumar $ whoami
